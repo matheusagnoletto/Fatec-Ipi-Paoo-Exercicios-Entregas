@@ -19,7 +19,11 @@ describe('AppComponent', () => {
   it(`should have as title 'fatec-ipi-paoo-exercicio01'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
+<<<<<<< HEAD
     expect(app.title).toEqual('fatec-ipi-paoo-exercicio01');
+=======
+
+>>>>>>> 02e7baf... Entrega 27-08
   });
 
   it('should render title', () => {
